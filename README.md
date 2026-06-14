@@ -1,3 +1,4 @@
+[live link](https://saaslanding.bytexl.live/)
 A **SaaS landing page** is the primary marketing page for a Software-as-a-Service product. Its goal is to convert visitors into trial users, demo bookings, or paying customers.
 
 ### Typical SaaS Landing Page Structure
